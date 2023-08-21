@@ -16,7 +16,4 @@
 | 번역 속도 | 빠름 | 느림 |
 | 실행 속도 | 느림 | 빠름 |
 
-<img src="assets/images/Execution Methods.png">
-
-
-
+<img src="images/Execution Methods.png">
