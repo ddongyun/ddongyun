@@ -19,7 +19,7 @@
 
 - 장점:  크로스 플랫폼 개발, 재배포 필요x, 네이티브 모듈 활용, Windows OS 지원, JS 사용으로 학습 난이도 낮음, 발달된 커뮤니티 규모
 - 단점:  
-<img src="">
+<img src="images/RN.png">
 
 3. Flutter
 
