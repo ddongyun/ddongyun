@@ -1,0 +1,5 @@
+sudo shutdown now 끄기
+
+/etc/passwd	계정 정보
+/etc/shadow	패스워드 정보
+/etc/login.def	로그인 관련 설정
