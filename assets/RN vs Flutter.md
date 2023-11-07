@@ -19,10 +19,10 @@
 
 - 장점:  크로스 플랫폼 개발, 재배포 필요x, 발달된 커뮤니티 규모
 - 단점:  성능 한계
-<img src="source/RN.png">
+<img src="sources/RN.png">
 
 ### 3. Flutter
 
 - 장점:  크로스 플랫폼 개발, 뛰어난 성능
 - 단점:  작은 커뮤니티 규모
-<img src="source/Flutter.png" style="width: 70%;">
+<img src="sources/Flutter.png" style="width: 70%;">
